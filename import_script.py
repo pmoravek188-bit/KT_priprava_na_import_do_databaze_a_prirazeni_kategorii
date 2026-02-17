@@ -225,7 +225,7 @@ nacti_env_soubor(".env")
 AI_CONFIG = {
     "enabled": str(os.getenv("AI_CATEGORIZATION", "")).lower() in {"1", "true", "yes"},
     "api_key": os.getenv("OPENAI_API_KEY", ""),
-    "model": os.getenv("OPENAI_MODEL", "5.1 mini"),
+    "model": os.getenv("OPENAI_MODEL", "GPT-5 mini"),
     "throttle": float(os.getenv("AI_THROTTLE_SECONDS", "0")),
     "concurrency": int(os.getenv("AI_CONCURRENCY", "8")),
     "max_attempts": int(os.getenv("AI_MAX_ATTEMPTS", "2")),
