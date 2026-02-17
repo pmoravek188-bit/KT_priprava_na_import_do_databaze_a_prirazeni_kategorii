@@ -1,0 +1,59 @@
+název;id kategorie;název kategorie;confidence;zdroj
+Zapečené tousty                  (1 ks);1025;Fast food;0.95;ReFresh Bistro
+Sýrové tousty                   (1 ks);1025;Fast food;0.95;ReFresh Bistro
+Pizzové tousty             (1 ks);1025;Fast food;0.95;ReFresh Bistro
+Sweet Chilli tousty             (1 ks);1025;Fast food;0.9;ReFresh Bistro
+Premium tousty                          (1 ks);1025;Fast food;0.9;ReFresh Bistro
+Pikantní tousty             (1 ks);1025;Fast food;0.9;ReFresh Bistro
+Tuňákové tousty (B.Motyčková)            (1 ks);1025;Fast food;0.92;ReFresh Bistro
+Classic Tortilla;1025;Fast food;0.88;ReFresh Bistro
+Tortilla se sýrem;1025;Fast food;0.88;ReFresh Bistro
+Pizza Tortilla;1025;Fast food;0.88;ReFresh Bistro
+Kukurýto classic;1025;Fast food;0.8;ReFresh Bistro
+Kukurýto cheese;1025;Fast food;0.8;ReFresh Bistro
+Texas Tortilla;1109;Tortilly, placky;0.7;ReFresh Bistro
+Tortilla s kuřecím;1025;Fast food;0.85;ReFresh Bistro
+Domácí sendvič;1025;Fast food;0.8;ReFresh Bistro
+Wrap sýrový;1025;Fast food;0.85;ReFresh Bistro
+Wrap šunka sýr;1025;Fast food;0.85;ReFresh Bistro
+Obložená houska s gervais;1025;Fast food;0.8;ReFresh Bistro
+Domácí fit sendvič;1025;Fast food;0.8;ReFresh Bistro
+Obložená houska;1025;Fast food;0.75;ReFresh Bistro
+Jogurt čoko;1050;Jogurty ochucené;0.9;ReFresh Bistro
+Jogurt jahoda;1050;Jogurty ochucené;0.9;ReFresh Bistro
+Jogurt Mango + Marakuja;1050;Jogurty ochucené;0.9;ReFresh Bistro
+Jogurt Cini Minis;1050;Jogurty ochucené;0.85;ReFresh Bistro
+Jogurt Cookie Crisp;1050;Jogurty ochucené;0.85;ReFresh Bistro
+Jogurt Nesquik;1050;Jogurty ochucené;0.9;ReFresh Bistro
+Jogurt Malinový;1050;Jogurty ochucené;0.9;ReFresh Bistro
+Jogurt Kiwi Jablko;1050;Jogurty ochucené;0.9;ReFresh Bistro
+Jogurt karamel;1050;Jogurty ochucené;0.9;ReFresh Bistro
+Jogurt kit kat;1050;Jogurty ochucené;0.85;ReFresh Bistro
+Jogurt lentilky;1050;Jogurty ochucené;0.9;ReFresh Bistro
+Jogurt lotus;1050;Jogurty ochucené;0.9;ReFresh Bistro
+Jogurt studentská pečeť;1112;Čokolády a bonboniéry;0.5;ReFresh Bistro
+Párky na tácku       (2 ks);1123;Párky;0.85;ReFresh Bistro
+Hot Dog;1025;Fast food;0.95;ReFresh Bistro
+Texas Burger;1025;Fast food;0.9;ReFresh Bistro
+Hamburger se sýrem;1025;Fast food;0.9;ReFresh Bistro
+Sweet Chilli Burger;1025;Fast food;0.9;ReFresh Bistro
+Sekaná v toustu;1026;Hotové pokrmy a polotovary;0.8;ReFresh Bistro
+Sekaná v housce;1025;Fast food;0.75;ReFresh Bistro
+Jahody se zakysanou;1055;Mléčné dezerty a pudinky;0.9;ReFresh Bistro
+Ovocná miska;1113;Dorty, dezerty a cukrovinky;0.4;ReFresh Bistro
+Chia puding s broskví;1011;Pudinky a dezerty;0.9;ReFresh Bistro
+Crepes jahoda - banán - skořice;1113;Dorty, dezerty a cukrovinky;0.8;ReFresh Bistro
+Crepes nutella - banán;1113;Dorty, dezerty a cukrovinky;0.8;ReFresh Bistro
+Dezert s mléčnou rýží;1055;Mléčné dezerty a pudinky;0.85;ReFresh Bistro
+Mrkev s hummuem;1006;Pomazánky a paštiky;0.9;ReFresh Bistro
+Dezert s tvarohem;1055;Mléčné dezerty a pudinky;0.85;ReFresh Bistro
+Kukuřice s máslem;1141;Zelenina čerstvá;0.7;ReFresh Bistro
+ARAŠÍDOVÁ SALSA 100 g;1134;Omáčky, kečupy, protlaky, hořčice, majolky;0.6;FIT
+MANGO 60 g;1098;Ovoce sušené;0.86;FIT
+MAJONÉZA WASABI 20 ml;1134;Omáčky, kečupy, protlaky, hořčice, majolky;0.92;FIT
+GRILOVANÉ KUŘE 80 g;1026;Hotové pokrmy a polotovary;0.82;FIT
+ZAUZENÉ KUŘE 60 g;1122;Lahůdky;0.9;FIT
+HOVĚZÍ LÍČKA 80 g;1042;Maso hovězí a vnitřnosti;0.9;FIT
+ZAUZENÝ LOSOS 40 g;1045;Ryby a mořské plody;0.9;FIT
+KRŮTA 60 g;1041;Maso drůbeží a vnitřnosti;0.9;FIT
+ARAŠÍDOVÝ DIP 20 g;1130;Dresinky, dipy a zálivky;0.74;FIT

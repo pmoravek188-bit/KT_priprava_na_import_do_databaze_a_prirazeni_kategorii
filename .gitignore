@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files (volitelné - můžete je chtít commitnout)
+# result_output.csv
+# category_confidence_report.csv
+
+# Excel soubory s daty (pokud jsou citlivé)
+# nutrition_data_*.xlsx
+# categories.xlsx
+
+# ZIP soubory
+*.zip
+
+# PDF dokumentace (pokud je velká)
+# dokumentace_aktualizovana.pdf
