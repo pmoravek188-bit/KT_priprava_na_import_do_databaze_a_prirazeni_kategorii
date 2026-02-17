@@ -20,6 +20,7 @@ Systém pro zpracování nutričních dat z Excel souborů a automatickou katego
 
 ### AI kategorizace
 - Používá OpenAI API pro inteligentní přiřazení kategorií
+- **Doporučený model:** `gpt-4o-mini` (pro nejlepší výsledky)
 - Podporuje batch zpracování pro rychlejší kategorizaci
 - Ukládá confidence skóre pro každou kategorizaci
 - Má ochranu proti překročení rozpočtu (AI_MAX_COST_USD)
@@ -37,7 +38,7 @@ Vytvořte soubor `.env` v této složce s následujícími proměnnými (volitel
 ```
 AI_CATEGORIZATION=1
 OPENAI_API_KEY=your_api_key_here
-OPENAI_MODEL=gpt-4o-mini
+OPENAI_MODEL=gpt-4o-mini  # Doporučeno pro nejlepší výsledky
 AI_MAX_COST_USD=20
 AI_BATCH_SIZE=10
 AI_CONCURRENCY=8
