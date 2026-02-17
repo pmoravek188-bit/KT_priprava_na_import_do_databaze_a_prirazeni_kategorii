@@ -294,7 +294,7 @@ def predict_category(
     product_name: str,
     categories: Sequence[Dict[str, Any]],
     api_key: str,
-    model: str = "o1-mini",
+    model: str = "5.1 mini",
     prompt_cache_key: Optional[str] = None,
     prompt_cache_retention: Optional[str] = None,
 ) -> Tuple[Optional[int], Optional[float], Dict[str, int]]:
@@ -358,7 +358,7 @@ def predict_categories_batch(
     product_names: Sequence[str],
     categories: Sequence[Dict[str, Any]],
     api_key: str,
-    model: str = "o1-mini",
+    model: str = "5.1 mini",
     prompt_cache_key: Optional[str] = None,
     prompt_cache_retention: Optional[str] = None,
     max_output_tokens: Optional[int] = None,
@@ -446,7 +446,7 @@ def predict_category_id(
     product_name: str,
     categories: Sequence[Dict[str, Any]],
     api_key: str,
-    model: str = "o1-mini",
+    model: str = "5.1 mini",
 ) -> Optional[int]:
     cid, _, _ = predict_category(
         product_name=product_name,
